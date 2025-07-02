@@ -1,11 +1,1 @@
-# The Simplest Example of a Useful Chrome Browser Extension
-
-Get data from the user's active tab, using minimal permissions to ensure shorter review-and-publish cycles.
-
-## To test out this extension
-
-1. Clone this repository to your local machine.
-2. Visit `chrome://extensions` in your (Google Chrome) browser
-3. Toggle 'Developer mode' on
-4. Click 'Load Unpacked' and select the cloned directory (make sure it's unzipped if you downloaded it directly from this repo)
-5. Open a new tab and click the extension's icon to open its popup & see it in action
+IyBUaGUgU2ltcGxlc3QgRXhhbXBsZSBvZiBhIFVzZWZ1bCBDaHJvbWUgQnJvd3NlciBFeHRlbnNpb24KCkdldCBkYXRhIGZyb20gdGhlIHVzZXIncyBhY3RpdmUgdGFiLCB1c2luZyBtaW5pbWFsIHBlcm1pc3Npb25zIHRvIGVuc3VyZSBzaG9ydGVyIHJldmlldy1hbmQtcHVibGlzaCBjeWNsZXMuCgojIyBUbyB0ZXN0IG91dCB0aGlzIGV4dGVuc2lvbgoKMS4gQ2xvbmUgdGhpcyByZXBvc2l0b3J5IHRvIHlvdXIgbG9jYWwgbWFjaGluZS4KMi4gVmlzaXQgYGNocm9tZTovL2V4dGVuc2lvbnNgIGluIHlvdXIgKEdvb2dsZSBDaHJvbWUpIGJyb3dzZXIKMy4gVG9nZ2xlICdEZXZlbG9wZXIgbW9kZScgb24KNC4gQ2xpY2sgJ0xvYWQgVW5wYWNrZWQnIGFuZCBzZWxlY3QgdGhlIGNsb25lZCBkaXJlY3RvcnkgKG1ha2Ugc3VyZSBpdCdzIHVuemlwcGVkIGlmIHlvdSBkb3dubG9hZGVkIGl0IGRpcmVjdGx5IGZyb20gdGhpcyByZXBvKQo1LiBPcGVuIGEgbmV3IHRhYiBhbmQgY2xpY2sgdGhlIGV4dGVuc2lvbidzIGljb24gdG8gb3BlbiBpdHMgcG9wdXAgJiBzZWUgaXQgaW4gYWN0aW9uCg==
